@@ -1,6 +1,6 @@
 {
   "name": "@kazzamine/todo-list",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "main": "server.js",
   "bin": {
     "todo-list": "server.js"
@@ -9,10 +9,19 @@
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["todo","list"],
+  "keywords": [
+    "todo",
+    "list"
+  ],
   "author": "Amine Kazzout",
   "license": "ISC",
   "description": "todo list",
+  "files": [
+    "server.js",
+    "public",
+    "routes",
+    "database"
+  ],
   "dependencies": {
     "body-parser": "^1.20.3",
     "bootstrap": "^5.3.3",
