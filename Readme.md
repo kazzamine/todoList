@@ -15,10 +15,12 @@ This app allows you to **add tasks** with a start date and end date, view them, 
 ---
 
 ## Installation
-
+ FROM GITHUB :
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/todo-list-app.git
    cd todo-list-app
 
+FROM NPM:
+    npm i @kazzamine/todo-list
 by : amine Kazzout
