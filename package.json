@@ -16,12 +16,6 @@
   "author": "Amine Kazzout",
   "license": "ISC",
   "description": "todo list",
-  "files": [
-    "server.js",
-    "public",
-    "routes",
-    "DB"
-  ],
   "dependencies": {
     "body-parser": "^1.20.3",
     "bootstrap": "^5.3.3",
