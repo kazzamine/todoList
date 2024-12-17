@@ -1,6 +1,6 @@
 {
   "name": "@kazzamine/todo-list",
-  "version": "1.2.1",
+  "version": "1.2.4",
   "main": "server.js",
   "bin": {
     "todo-list": "server.js"
@@ -16,12 +16,6 @@
   "author": "Amine Kazzout",
   "license": "ISC",
   "description": "todo list",
-  "files": [
-    "server.js",
-    "public",
-    "routes",
-    "database"
-  ],
   "dependencies": {
     "body-parser": "^1.20.3",
     "bootstrap": "^5.3.3",
