@@ -22,5 +22,12 @@ This app allows you to **add tasks** with a start date and end date, view them, 
    cd todo-list-app
 
 FROM NPM:
+   ```bash
     npm i @kazzamine/todo-list
+
+to run project
+
+    ```bash
+    npx @kazzamine/todo-list
+
 by : amine Kazzout
