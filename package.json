@@ -20,7 +20,7 @@
     "server.js",
     "public",
     "routes",
-    "database"
+    "DB"
   ],
   "dependencies": {
     "body-parser": "^1.20.3",
